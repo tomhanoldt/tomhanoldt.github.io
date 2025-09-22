@@ -8,12 +8,12 @@
     "jquery": ">=1.10"
   },
   "homepage": "https://github.com/iamceege/tooltipster",
-  "version": "4.1.7",
-  "_release": "4.1.7",
+  "version": "4.2.8",
+  "_release": "4.2.8",
   "_resolution": {
     "type": "version",
-    "tag": "4.1.7",
-    "commit": "608bf7023c3a77e2c1245445ecbf44a9e1fa2bd4"
+    "tag": "4.2.8",
+    "commit": "0daaeffdc7da578f4048c4cf9ad2f37a474144f0"
   },
   "_source": "https://github.com/iamceege/tooltipster.git",
   "_target": "^4.1.6",

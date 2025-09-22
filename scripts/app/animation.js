@@ -1,0 +1,1 @@
+this.Animation=class{constructor(t){var s,i,o,n,e,a,h,p;for(this.options=t,this.animatedElements=[],n=0,e=(a=$(this.options.selector)).length;n<e;n++)for(i in o=a[n],s=$(o),this.animatedElements.push(s),s.options=$.extend(!0,{},this.options),h=s.data())p=h[i],i in this.options&&(s.options[i]=p)}};

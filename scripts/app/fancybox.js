@@ -1,0 +1,1 @@
+window.Fancybox=class{constructor(){this.setupFancybox()}setupFancybox(){return $(".fancybox").fancybox({maxWidth:1e3,fitToView:!0,width:"90%",height:"70%",autoSize:!0,closeClick:!1,openEffect:"none",closeEffect:"none",helpers:{overlay:{locked:!1}}})}};
